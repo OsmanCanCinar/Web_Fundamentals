@@ -1,0 +1,14 @@
+h3 {
+  color: #ffffff;
+}
+
+.box-1 {
+  background-color: blue;
+}
+
+#image-box {
+  width: 640px;
+  height: 360px;
+  background-image: url("../../assets/images/bird.jpg");
+  background-size: cover;
+}

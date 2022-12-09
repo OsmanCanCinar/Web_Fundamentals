@@ -1,0 +1,29 @@
+/*
+    * comments
+*/
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: rgb(255,0,0);
+    opacity: 0.8;
+}
+
+#second {
+    background-color: red;
+}
+
+.info{
+    color: purple;
+}
+
+#second, .info{
+    margin-left: 25%;
+}
+
+#para1.info {
+    background-color: #ffffff;
+    margin-left: 0%;
+}
